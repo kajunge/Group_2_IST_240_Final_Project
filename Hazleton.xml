@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<java class="java.beans.XMLDecoder" version="1.8.0_111">
+
+<string> 1) Name the Image on the left </string>
+
+<string> Apple </string>
+
+<string> Orange</string>
+
+<string> Banana </string>
+
+<string> Asparagus </string>
+
+<string> Banana </string>
+
+<string> 2) Name the animal in the middle </string>
+
+<string> Bobcat</string>
+
+<string> Panther</string>
+
+<string> lynx </string>
+
+<string> Lion </string>
+
+<string> Panther </string>
+
+<string> 3) Name the Network on the right</string>
+
+<string> NBC </string>
+
+<string> ABC</string>
+
+<string> CBS </string>
+
+<string> TNT </string>
+
+<string> NBC</string>
+
+<string> 4) Name the Greek letter</string>
+
+<string> Alpha </string>
+
+<string> Beta </string>
+
+<string> phi </string>
+
+<string> lambda</string>
+
+<string> lambda </string>
+
+</java>
+
+

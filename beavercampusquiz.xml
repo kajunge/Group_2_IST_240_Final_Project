@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_111" class="java.beans.XMLDecoder">
+ 	<string>
+		1) What year did the Beaver campus library open?
+	</string>
+ 		<string>
+			1945
+		</string>
+ 		<string>
+			1973
+		</string>
+ 		<string>
+			1970
+		</string>
+ 		<string>
+			1968
+		</string>
+ 		<string>
+			1968
+		</string>
+ 	<string>
+		2) What is the correct name of the dining facility on the Beaver campus?
+	</string>
+ 		<string>
+			Beaver Bites
+		</string>
+ 		<string>
+			Brodhead Bistro
+		</string>
+ 		<string>
+			Blue &amp; White Cafe
+		</string>
+ 		<string>
+			Beaver Falls Fare
+		</string>
+ 		<string>
+			Brodhead Bistro
+		</string>
+ 	<string>
+    3) The campus’s grounds once served as the Beaver County Tuberculosis Sanatorium.
+	</string>
+ 		<string>
+			True
+		</string>
+ 		<string>
+			False
+		</string>
+ 		<string>
+			True
+		</string>
+ 	<string>
+		4)  Annual Beaver Campus event during the last week of spring semester classes.
+	</string>
+ 		<string>
+			Beaverpalooza
+		</string>
+		<string>
+			Lionfest
+		</string>
+	 	<string>
+			Beaverfest
+		</string>
+ 		<string>
+			Beaverfest
+		</string>
+</java>

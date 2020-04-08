@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_111" class="java.beans.XMLDecoder">
+ 	<string>
+		1) 7 x 7 =
+	</string>
+ 		<string>
+			41
+		</string>
+ 		<string>
+			47
+		</string>
+ 		<string>
+			49
+		</string>
+ 		<string>
+			25
+		</string>
+ 		<string>
+			51
+		</string>
+ 	<string>
+		2) 9 x 9 =
+	</string>
+ 		<string>
+			82
+		</string>
+ 		<string>
+			81
+		</string>
+ 		<string>
+			78
+		</string>
+ 		<string>
+			99
+		</string>
+ 		<string>
+			68
+		</string>
+ 	<string>
+		3) 24 / 6 =
+	</string>
+ 		<string>
+			4
+		</string>
+ 		<string>
+			5
+		</string>
+ 		<string>
+			8
+		</string>
+		<string>
+			7
+		</string>
+		
+	<string>
+		4) 36 / 4 =
+ 	</string>
+		<string>
+			4) 36 / 4 =
+		</string>
+ 		<string>
+			8
+		</string>
+		<string>
+			6
+		</string>
+	 	<string>
+			5
+		</string>
+		<string>
+		9
+		</string>
+ 		<string>
+			2000
+		</string>
+		<string>
+			800
+		</string>
+	 	<string>
+			400
+		</string>
+ 		<string>
+			200
+		</string>
+</java>

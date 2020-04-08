@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_80" class="java.beans.XMLDecoder">
+ <string>By now, you have entered your name and optional age. Please read these instructions.</string>
+ <string>Also, feel free to browse the Game Designers window on the previous screen, that is us!</string>
+ <int>1855</int>
+ <string>To close the program(we hope you don't!), click exit on the home screen or from inside any game.</string>
+ <string>Once you click the start button at the bottom of this screen, you will be taken to the
+ character selection.</string>
+ <string>Choose your character - wisely! Then choose a theme for the game.</string>
+ <string>Click "GO" when you are ready to start playing the game. You may also undo your selection.</string>
+ <string>Move the character with keyboard to each campus, but click on the red X to enter a campus. Each campus has a fun game!</string>
+ <string>Play all of the campus games, but play World Campus LAST to get your final score and time! Thanks for playing!</string>
+</java>

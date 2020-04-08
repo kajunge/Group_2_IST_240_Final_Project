@@ -1,0 +1,23 @@
+<quizquestions>
+    <question>What year did the Beaver campus library open?</question>
+    	<choice>1945</choice>
+    	<choice>1973</choice>
+    	<choice>1970</choice>
+    	<choice>1968</choice>
+    		<answer>1968</answer>
+    <question>What is the correct name of the dining facility on the Beaver campus?</question>
+    	<choice>Beaver Bites</choice>
+    	<choice>Brodhead Bistro</choice>
+    	<choice>Blue & White Cafe</choice>
+    	<choice>Beaver Falls Fare</choice>
+    		<answer>Brodhead Bistro</answer>  
+    <question>True/False:  The main part of the campus’s grounds once served as the Beaver County Tuberculosis Sanatorium, which opened on February 14, 1923.</question>
+    	<choice>True</choice>
+    	<choice>False</choice>
+    		<answer>True</answer>
+    <question>This event is held annually during the last week of classes for the spring semester and is sponsored by the Student Government Association. It features a series of programs and events for Beaver students with free food, giveaways, prizes and T-shirts. What is the name of this event?</question>
+    	<choice>Beaverpalooza</choice>
+    	<choice>Lionfest</choice>
+    	<choice>Beaverfest</choice>
+    		<answer>Beaverfest</answer>  
+</quizquestions>
